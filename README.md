@@ -12,9 +12,13 @@ Modify the following lines,
 
 ```
 alertlimit="840" #Set the alert point, If set to 1000GB it will trigger here.
+
 discordwebhook="https://discordapp.com/api/webhooks/696969669696" #Set discord webhook
+
 curl="/usr/local/bin/curl" #Set location for curl, can be found by running which curl
+
 username="USB-JAG DISK" #Set webhook username, usefull for identifying what box is full
+
 image="https://i.imgur.com/PCUW7F5.png" #image for webhook
 ```
 Make the script executable.
