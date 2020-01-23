@@ -27,7 +27,6 @@ Make the script executable.
 chmod +x QuotaDiscord.sh 
 ```
 Add to crontab,
-
 (Can use a generator, https://crontab-generator.org/)
 
 ```
