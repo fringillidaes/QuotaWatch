@@ -1,8 +1,6 @@
 # QuotaDiscord
 Have your seedbox send a notification when its disk gets low. Utilizes the quota command to read space.
 
-Install,
-
 Move to whatever dir you want the script in, for example mines ~/scripts
 
 Download the script using wget,
