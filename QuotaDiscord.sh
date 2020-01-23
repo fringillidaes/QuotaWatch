@@ -31,7 +31,7 @@ messageformat='{
         "embeds": [
           {
             "title": "Disk is about to be full! :rage:",
-            "color": 2456666,
+            "color": 16711680,
             "fields": [
               {
                 "name": "Disk Size",
