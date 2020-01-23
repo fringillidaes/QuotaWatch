@@ -32,11 +32,11 @@ Add to crontab,
 ```
 crontab -e
 
-#paste the generated crontab or format this one (for every 5 minutes to send)
-*/5 * * * * /home/username/DiscordQuotas.sh >/dev/null 2>&1
+#paste the generated crontab or format this one (for every 8 minutes to send)
+*/8 * * * * /home/username/DiscordQuotas.sh >/dev/null 2>&1
 
 #mine for usb
-*/5 * * * * /homeXX/username/DiscordQuotas.sh >/dev/null 2>&1
+*/8 * * * * /homeXX/username/DiscordQuotas.sh >/dev/null 2>&1
 ```
 
 # QuotaWatch (Under revision)
