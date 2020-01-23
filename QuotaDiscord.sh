@@ -56,6 +56,6 @@ messageformat='{
           }
         ]
       }'
-    curl -H "Content-Type: application/json" -d "$messageformat" $discordwebhook
+    $curl -H "Content-Type: application/json" -d "$messageformat" $discordwebhook
     exit
 fi
